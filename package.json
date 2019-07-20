@@ -1,0 +1,29 @@
+{
+  "name": "don-raffys",
+  "version": "1.0.0",
+  "description": "Food ordering at his pizza party.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isjulianj/Raffy.git"
+  },
+  "author": "",
+  "license": "",
+  "bugs": {
+    "url": "https://github.com/isjulianj/Raffy/issues"
+  },
+  "homepage": "https://github.com/isjulianj/Raffy#readme",
+  "dependencies": {
+    "next": "^9.0.2",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "socket.io": "^2.2.0",
+    "socket.io-client": "^2.2.0"
+  }
+}
